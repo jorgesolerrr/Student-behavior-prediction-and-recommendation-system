@@ -1,4 +1,4 @@
-# **Sistema de prediccion y recomendación para el aprendizaje en Entorno Virtuales de Aprendizaje**
+# **Sistema de predicción y recomendación para la enseñanza en Entornos Virtuales de Aprendizaje**
 
 ## Ciencias de la Computacion
 ## Universidad de La Habana
@@ -7,20 +7,39 @@
 
 ## 1. Introducción
 
-La educación es un aspecto fundamental en la vida de cualquier persona, y en la actualidad, gracias a los avances tecnológicos, y en los últimos tiempos a raíz de la pandemia del COVID-19, el aprendizaje se ha vuelto más accesible y flexible a través de los entornos virtuales de aprendizaje. En estos entornos es difícil para los profesores obtener el desempeño de un estudiante durante un curso, y proveer a tiempo una atención personalizada al mismo. Usualmente se obtiene la información del curso una vez que este concluye, y esta es la base de la falta de confianza y el pobre aprendizaje de un estudiante dentro de un curso.
+La formación de competencias profesionales es un aspecto fundamental en el proceso de instrucción en las instituciones educativas. En la actualidad, gracias a los avances tecnológicos, el aprendizaje se ha vuelto más accesible y flexible a través de los entornos virtuales de aprendizaje (EVA). Recientemente, la humanidad se encuentra aún dando solución a un problema global de pandemia que potenció la educación a distancia y todos sus mecanismos de enseñanza. En estos entornos es un reto para los profesores obtener una métrica que permita analizar y predecir el desempeño de cada estudiante durante un curso en el logro del aprendizaje de cada objetivo de estudio. Este instrumento permitiría proveer a tiempo una atención personalizada a los discentes, logrando una intervención oportuna que lograría conducir y afianzar la confianza del estudiante, a pesar de las brechas detectadas, en los resultados al finalizar el curso.
 
-Una forma de detectar a los estudiantes que van a tener un pobre desempeño dentro de un curso: es hacer predicciones tempranas de sus notas en los diferentes temas del mismo. El propósito de predecir el aprendizaje que puede tener un estudiante dentro de un curso: es entender el desempeño académico del estudiante en su trayectoria de aprendizaje dentro del entorno, ayudar a los profesores a entender las condiciones académicas en las que están los estudiantes, y en el caso de la presente tesis: implementar planes personalizados de recomendación basados en dicha predicción.
+Los objetivos de predecir el desempeño que puede tener un estudiante dentro de un curso son:
+* Es entender el aprendizaje académico del estudiante en su trayectoria en cada objetivo académico dentro del entorno
+* Ayudar a los profesores a entender las condiciones y realidades académicas en las que están los estudiantes, y en el caso de la presente tesis:
+* Implementar planes personalizados de recomendación basados en dicha predicción.
 
-El uso de modelos de predicción para el análisis del aprendizaje así como los sistemas de recomendación presentan múltiples retos, especialmente el cómo obtener, procesar y usar los datos para construir el modelo. A este campo dentro de la analítica del aprendizaje se le llama: minería de datos educacionales. En este estudio se precisan 3 grupos de indicadores fundamentales: la interacción del estudiante con el medio, interaccion del estudiante con el curso y la interacción que pueda existir entre estudiante y profesor. Este preprocesamiento de los datos tiene significativa importancia ya que interviene directamente en la precisión y en el costo computacional del modelo.
+Una forma de detectar a los estudiantes que pudieran tener un desempeño medio o bajo dentro de un curso, es realizar predicciones tempranas de sus calificaciones en los diferentes temas que se abordan.
 
-En este contexto, la presente tesis tiene como objetivo principal desarrollar un modelo predictivo y un sistema de recomendación a partir de los datos extraidos de un entorno virtual de aprendizaje, para este estudio nos enfocaremos en Moodle, un LMS de libre acceso, open source y el más usado a nivel mundial.Se quiere predecir el comportamiento de un estudiante en un curso y a partir de esta predicción, se busca ofrecer recomendaciones personalizadas que se adapten a las necesidades y preferencias individuales de cada estudiante, con el fin de mejorar su experiencia de aprendizaje y aumentar su rendimiento académico.
+El uso de modelos de predicción para el análisis del aprendizaje, así como los sistemas de recomendación, presentan múltiples desafíos, especialmente el cómo obtener, procesar y usar los datos para construir el modelo. A este campo dentro de la analítica del aprendizaje se le llama: Minería de datos educacionales. En este estudio se proponen 2 grupos de indicadores fundamentales con métricas entre las que podemos mencionar: 
+* Grupo A para la interacción del estudiante con el EVA:
+    - Cantidad de veces que el estudiante ha ingresado a las actividades y recursos de la plataforma.
+    - Nivel de participación en los tipos diferentes de actividades.
+* Grupo B para la interacción del estudiante con el aula virtual:
+    - Tiempo de acceso a los materiales que se orientan para el cumplimiento de un objetivo académico.
+    - Tiempo que se demora en entregar una tarea o responder un cuestionario.
+    - Resultado de la evaluación que se otorga por el docente en cada actividad interactiva de cada objetivo académico.
 
-Para lograr el objetivo se tendrán en cuenta los siguientes pasos:
-1. Extraer los datos pertinentes del LMS
-2. Procesar dichos datos: para esto se propone utilizar una combinación de los siguientes métodos:
-    * método de peso de entropía (entropy weight method)
-    * filtrado de varianza (variance filtering)
-    * estrategia de fusión de características autoadaptable
-    Todo esto con el objetivo de dejar los datos lo más limpios posible para aumentar la precisión y disminuir el costo computacional del modelo.
-3. Construcción del modelo: algoritmo de aprendizaje de máquina (machine learning), SVC (support vector classification)
-4. A partir de la predicción construir un sistema de recomendacion, basado en el historial del estudiante en el entorno virtual y los requerimientos del curso donde se encuentra.
+ Este preprocesamiento de los datos tiene significativa importancia ya que interviene directamente en la precisión y en el costo computacional del modelo.
+
+En el contexto de la presente tesis, el objetivo principal es desarrollar un modelo predictivo y un sistema de recomendación a partir de los datos extraídos de un entorno virtual de aprendizaje. Para este estudio se utilizará el software Moodle como herramienta EVA donde se desarrollaron las aulas virtuales y por tanto poseen la información estadística. En resumen, la pertinencia del uso de este EVA se basa en ser de libre acceso, open source y el más utilizado a nivel mundial por las instituciones educativas. 
+
+Como resultado de este trabajo se pretende predecir el comportamiento de un estudiante en un curso y, a partir de esta predicción, se busca ofrecer recomendaciones personalizadas adaptadas a las necesidades y preferencias individuales de cada alumno, con el fin de mejorar su experiencia en el proceso de enseñanza y aumentar su rendimiento académico.
+
+Para lograr este objetivo se tendrán en cuenta los siguientes pasos:
+1. Extraer los datos pertinentes del EVA utilizando conexión vía API a la información.
+2. Procesar los datos obtenidos en el paso 1, proponiendo la utilización de una combinación de los siguientes métodos:
+    * Método de peso de entropía (Entropy weight method)
+    * Filtrado de varianza (Variance filtering)
+    * Estrategia de fusión de características auto-adaptables
+    
+    Lo anterior, con el objetivo de obtener datos limpios que posibiliten aumentar la precisión y disminuir el costo computacional del modelo.
+3. Construir el modelo: Implementación de algoritmo de aprendizaje de máquina (Machine learning) con SVC (Support vector classification).
+4. Construir un sistema de recomendación, basado en el historial del estudiante en el entorno virtual y los requerimientos del curso donde se encuentra, a partir de la predicción obtenida en el paso 3.
+
+
