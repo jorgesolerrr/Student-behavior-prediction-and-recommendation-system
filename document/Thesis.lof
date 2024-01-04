@@ -1,4 +1,31 @@
 \babel@toc {spanish}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Muestra del archivo de registros proporcionado por la Universidad Metropolitana del Ecuador\relax }}{18}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Etapas de la investigación\relax }}{20}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Campo descripción del archivo de registros de Moodle\relax }}{26}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Conjunto de datos sombra y original (Descripción del algoritmo Boruta)\relax }}{28}{figure.caption.12}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Ejemplo de código para el llamado al API de Moodle\relax }}{33}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Muestra del \textit {Dataset} 1\relax }}{33}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Muestra del \textit {Dataset} 2\relax }}{34}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Matriz de correlación del \textit {Dataset} 1\relax }}{35}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Resultado del algoritmo Boruta en el primer \textit {Dataset}\relax }}{36}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Resultados del \textit {dataset} 1, etapa 25\%\relax }}{36}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Resultados del \textit {dataset} 1, etapa 50\%\relax }}{36}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Resultados del \textit {dataset} 1, etapa 75\%\relax }}{36}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Resultados del \textit {dataset} 1, etapa 100\%\relax }}{36}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Resultados del \textit {dataset} 1 con filtro de características, etapa 25\%\relax }}{37}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Resultados del \textit {dataset} 1 con filtro de características, etapa 50\%\relax }}{37}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Resultados del \textit {dataset} 1 con filtro de características, etapa 75\%\relax }}{37}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Resultados del \textit {dataset} 1 con filtro de características, etapa 100\%\relax }}{37}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Matriz de correlación del \textit {Dataset} 2\relax }}{38}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Resultado del algoritmo Boruta en el segundo \textit {Dataset}\relax }}{39}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Resultados del \textit {dataset} 2, etapa 25\%\relax }}{39}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Resultados del \textit {dataset} 2, etapa 50\%\relax }}{39}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Resultados del \textit {dataset} 2, etapa 75\%\relax }}{39}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Resultados del \textit {dataset} 2, etapa 100\%\relax }}{39}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Resultados del \textit {dataset} 2 con filtro de características, etapa 25\%\relax }}{40}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Resultados del \textit {dataset} 2 con filtro de características, etapa 50\%\relax }}{40}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Resultados del \textit {dataset} 2 con filtro de características, etapa 75\%\relax }}{40}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Resultados del \textit {dataset} 2 con filtro de características, etapa 100\%\relax }}{40}{figure.caption.27}%

@@ -16,5 +16,941 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{CrucialEdu}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ecd6b0965c542c60e9f07fb3414f7ebc}{%
+           family={Zabolotniaia},
+           familyi={Z\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=00a0a76613a8495bd432842f8df3e179}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Zijuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4313812fb49d5d30ebec61f374ef8bd4}{%
+           family={Dorozhkin},
+           familyi={D\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod}}}%
+        {{hash=decd227c6cbc6afc31d968d3cb315b13}{%
+           family={Lyzhin},
+           familyi={L\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8c2ba38fa6671d78e0188c28e97a2e3}
+      \strng{fullhash}{7026f52b6cac5eec81c875964c512dfa}
+      \strng{bibnamehash}{7026f52b6cac5eec81c875964c512dfa}
+      \strng{authorbibnamehash}{7026f52b6cac5eec81c875964c512dfa}
+      \strng{authornamehash}{b8c2ba38fa6671d78e0188c28e97a2e3}
+      \strng{authorfullhash}{7026f52b6cac5eec81c875964c512dfa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Emerging Technologies in Learning}
+      \field{number}{13}
+      \field{title}{Use of the {LMS Moodle} for an effective implementation of an innovative policy in higher educational institutions}
+      \field{volume}{15}
+      \field{year}{2020}
+      \field{pages}{172\bibrangedash 189}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3991/ijet.v15i13.14945
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3991/ijet.v15i13.14945
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3991/ijet.v15i13.14945
+      \endverb
+    \endentry
+    \entry{Conferencia}{inproceedings}{}
+      \name{author}{10}{}{%
+        {{hash=37dbd87647c9ab24276e7fec86e7a667}{%
+           family={Wattanakasiwich},
+           familyi={W\bibinitperiod},
+           given={Pornsit},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3d1cbc79936bdca50e8d88ec90594de5}{%
+           family={Suree},
+           familyi={S\bibinitperiod},
+           given={Natcha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=71bdb5b48958dc22ada2afa8e768cebe}{%
+           family={Chamrat},
+           familyi={C\bibinitperiod},
+           given={Sumonta},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d05196a8e211951bbff7fd40963aabe0}{%
+           family={Saengsuwan},
+           familyi={S\bibinitperiod},
+           given={Warangkana},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8f66ef3f9df363b56f4b65382fdcd91a}{%
+           family={Suttharangsee},
+           familyi={S\bibinitperiod},
+           given={Wasit},
+           giveni={W\bibinitperiod}}}%
+        {{hash=f61df9433de2544a752d706fd1f5247b}{%
+           family={Panrat},
+           familyi={P\bibinitperiod},
+           given={Thanaporn},
+           giveni={T\bibinitperiod}}}%
+        {{hash=bde39d96ee1e667a76697df944d5ea93}{%
+           family={Ruamcharoen},
+           familyi={R\bibinitperiod},
+           given={Jintana},
+           giveni={J\bibinitperiod}}}%
+        {{hash=52a9565d5ab9746cee75d140270dacae}{%
+           family={Trianpo},
+           familyi={T\bibinitperiod},
+           given={Woraporn},
+           giveni={W\bibinitperiod}}}%
+        {{hash=580f470e98484b36119f790c644cc76c}{%
+           family={Amornsamankul},
+           familyi={A\bibinitperiod},
+           given={Siwakorn},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b066fc754ceaea986edfd1b3973f32ad}{%
+           family={Laesanklang},
+           familyi={L\bibinitperiod},
+           given={Wasakorn},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lincoln, NE, USA}%
+      }
+      \strng{namehash}{181e8acfae9db8a79a36bbbf9a45e4e0}
+      \strng{fullhash}{4dfeabd46da7e99cd917a53033d7783c}
+      \strng{bibnamehash}{181e8acfae9db8a79a36bbbf9a45e4e0}
+      \strng{authorbibnamehash}{181e8acfae9db8a79a36bbbf9a45e4e0}
+      \strng{authornamehash}{181e8acfae9db8a79a36bbbf9a45e4e0}
+      \strng{authorfullhash}{4dfeabd46da7e99cd917a53033d7783c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE Frontiers in Education Conference (FIE)}
+      \field{title}{Investigating challenges of student centered learning in Thai higher education during the {COVID-19} pandemic}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/FIE49875.2021.9637298
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/FIE49875.2021.9637298
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/FIE49875.2021.9637298
+      \endverb
+    \endentry
+    \entry{Journal}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3899ce107fc047afa7e54b18f6b12a2b}{%
+           family={Nuankaew},
+           familyi={N\bibinitperiod},
+           given={Phonsuk},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3899ce107fc047afa7e54b18f6b12a2b}
+      \strng{fullhash}{3899ce107fc047afa7e54b18f6b12a2b}
+      \strng{bibnamehash}{3899ce107fc047afa7e54b18f6b12a2b}
+      \strng{authorbibnamehash}{3899ce107fc047afa7e54b18f6b12a2b}
+      \strng{authornamehash}{3899ce107fc047afa7e54b18f6b12a2b}
+      \strng{authorfullhash}{3899ce107fc047afa7e54b18f6b12a2b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Emerging Technologies in Learning}
+      \field{number}{19}
+      \field{title}{Dropout situation of business computer students, University of Phayao}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{pages}{115\bibrangedash 131}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.3991/ijet.v14i19.11177
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3991/ijet.v14i19.11177
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3991/ijet.v14i19.11177
+      \endverb
+    \endentry
+    \entry{Moodle_Solutions}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f2ecf4050b36345ed454e50a6c41f7ee}{%
+           family={{Moodle}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2ecf4050b36345ed454e50a6c41f7ee}
+      \strng{fullhash}{f2ecf4050b36345ed454e50a6c41f7ee}
+      \strng{bibnamehash}{f2ecf4050b36345ed454e50a6c41f7ee}
+      \strng{authorbibnamehash}{f2ecf4050b36345ed454e50a6c41f7ee}
+      \strng{authornamehash}{f2ecf4050b36345ed454e50a6c41f7ee}
+      \strng{authorfullhash}{f2ecf4050b36345ed454e50a6c41f7ee}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consultado el 28 de octubre de 2023}
+      \field{title}{Moodle}
+      \verb{urlraw}
+      \verb https://moodle.com/es/solutions/lms/
+      \endverb
+      \verb{url}
+      \verb https://moodle.com/es/solutions/lms/
+      \endverb
+    \endentry
+    \entry{bit4learn}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{Bit4Learn}
+      \verb{urlraw}
+      \verb https://bit4learn.com/es/lms/
+      \endverb
+      \verb{url}
+      \verb https://bit4learn.com/es/lms/
+      \endverb
+    \endentry
+    \entry{Wiki_Plato}{online}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{title}{Wikipedia}
+      \verb{urlraw}
+      \verb https://es.wikipedia.org/wiki/Programmed_Logic_Automated_Teaching_Operations
+      \endverb
+      \verb{url}
+      \verb https://es.wikipedia.org/wiki/Programmed_Logic_Automated_Teaching_Operations
+      \endverb
+    \endentry
+    \entry{NKI}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{virtualeducation}
+      \verb{urlraw}
+      \verb http://www.virtualeducation.wiki/index.php/NKI_Nettstudier
+      \endverb
+      \verb{url}
+      \verb http://www.virtualeducation.wiki/index.php/NKI_Nettstudier
+      \endverb
+    \endentry
+    \entry{FirstClass}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{title}{comparasoftware}
+      \verb{urlraw}
+      \verb https://www.comparasoftware.com/firstclass-lms
+      \endverb
+      \verb{url}
+      \verb https://www.comparasoftware.com/firstclass-lms
+      \endverb
+    \endentry
+    \entry{Moodle_docs}{online}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{title}{Moodle}
+      \verb{urlraw}
+      \verb https://docs.moodle.org/all/es/Acerca_de_Moodle
+      \endverb
+      \verb{url}
+      \verb https://docs.moodle.org/all/es/Acerca_de_Moodle
+      \endverb
+    \endentry
+    \entry{Moodle_stats}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Moodle}
+      \verb{urlraw}
+      \verb https://moodle.org/stats/
+      \endverb
+      \verb{url}
+      \verb https://moodle.org/stats/
+      \endverb
+    \endentry
+    \entry{Moodle_Plugins}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Moodle}
+      \verb{urlraw}
+      \verb https://docs.moodle.org/dev/Plugins
+      \endverb
+      \verb{url}
+      \verb https://docs.moodle.org/dev/Plugins
+      \endverb
+    \endentry
+    \entry{Sarria_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=d6fca4a409fcef129983339b1ed304fa}{%
+           family={Sarria},
+           familyi={S\bibinitperiod},
+           given={Brian\bibnamedelima Sal},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de Cantabria}%
+      }
+      \strng{namehash}{d6fca4a409fcef129983339b1ed304fa}
+      \strng{fullhash}{d6fca4a409fcef129983339b1ed304fa}
+      \strng{bibnamehash}{d6fca4a409fcef129983339b1ed304fa}
+      \strng{authorbibnamehash}{d6fca4a409fcef129983339b1ed304fa}
+      \strng{authornamehash}{d6fca4a409fcef129983339b1ed304fa}
+      \strng{authorfullhash}{d6fca4a409fcef129983339b1ed304fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Moodle’s Events Log Processing for the Generation of Users’ Activity Reports}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+    \endentry
+    \entry{Romero_tesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=ab44b28c0de3114490fa39478a789bd6}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Cristóbal\bibnamedelima Romero},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad de Córdoba'}%
+      }
+      \strng{namehash}{ab44b28c0de3114490fa39478a789bd6}
+      \strng{fullhash}{ab44b28c0de3114490fa39478a789bd6}
+      \strng{bibnamehash}{ab44b28c0de3114490fa39478a789bd6}
+      \strng{authorbibnamehash}{ab44b28c0de3114490fa39478a789bd6}
+      \strng{authornamehash}{ab44b28c0de3114490fa39478a789bd6}
+      \strng{authorfullhash}{ab44b28c0de3114490fa39478a789bd6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aplicando Minería de datos en Moodle}
+      \field{type}{phdthesis}
+      \field{year}{2021}
+    \endentry
+    \entry{Sebastian}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e023d2410adba40dc741193f0b109c02}{%
+           family={Ventura},
+           familyi={V\bibinitperiod},
+           given={Sebastián},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e023d2410adba40dc741193f0b109c02}
+      \strng{fullhash}{e023d2410adba40dc741193f0b109c02}
+      \strng{bibnamehash}{e023d2410adba40dc741193f0b109c02}
+      \strng{authorbibnamehash}{e023d2410adba40dc741193f0b109c02}
+      \strng{authornamehash}{e023d2410adba40dc741193f0b109c02}
+      \strng{authorfullhash}{e023d2410adba40dc741193f0b109c02}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Minería de Datos en Sistemas Educativos}
+      \field{year}{2008}
+    \endentry
+    \entry{Vasile}{article}{}
+      \name{author}{1}{}{%
+        {{hash=feffe9629b70dffb182f372973fdd92f}{%
+           family={Bresfelean},
+           familyi={B\bibinitperiod},
+           given={Vasile\bibnamedelima Paul},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{feffe9629b70dffb182f372973fdd92f}
+      \strng{fullhash}{feffe9629b70dffb182f372973fdd92f}
+      \strng{bibnamehash}{feffe9629b70dffb182f372973fdd92f}
+      \strng{authorbibnamehash}{feffe9629b70dffb182f372973fdd92f}
+      \strng{authornamehash}{feffe9629b70dffb182f372973fdd92f}
+      \strng{authorfullhash}{feffe9629b70dffb182f372973fdd92f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data Mining Applications in Higher Education and Academic Inteligence Management}
+      \field{year}{2008}
+    \endentry
+    \entry{Dominik}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a94b4854fd0e9b6dfc705a4535b64b2b}{%
+           family={Sherine\bibnamedelima Dominik},
+           familyi={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={T.\bibnamedelimi Abdul\bibnamedelima Razak},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a94b4854fd0e9b6dfc705a4535b64b2b}
+      \strng{fullhash}{a94b4854fd0e9b6dfc705a4535b64b2b}
+      \strng{bibnamehash}{a94b4854fd0e9b6dfc705a4535b64b2b}
+      \strng{authorbibnamehash}{a94b4854fd0e9b6dfc705a4535b64b2b}
+      \strng{authornamehash}{a94b4854fd0e9b6dfc705a4535b64b2b}
+      \strng{authorfullhash}{a94b4854fd0e9b6dfc705a4535b64b2b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{number}{4}
+      \field{title}{Analizing the student performance using classification techniques to the better suited classifer}
+      \field{volume}{104}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+    \endentry
+    \entry{Rodolfo}{article}{}
+      \name{author}{1}{}{%
+        {{hash=32962afe5564f68db484fe8d7d8c7530}{%
+           family={Rosalina\bibnamedelimb Rebucas\bibnamedelima Estacio},
+           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Rodolfo\bibnamedelimb Callanta\bibnamedelimb Raga\bibnamedelima Jr},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{32962afe5564f68db484fe8d7d8c7530}
+      \strng{fullhash}{32962afe5564f68db484fe8d7d8c7530}
+      \strng{bibnamehash}{32962afe5564f68db484fe8d7d8c7530}
+      \strng{authorbibnamehash}{32962afe5564f68db484fe8d7d8c7530}
+      \strng{authornamehash}{32962afe5564f68db484fe8d7d8c7530}
+      \strng{authorfullhash}{32962afe5564f68db484fe8d7d8c7530}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Asian Association of Open Universities Journal}
+      \field{number}{1}
+      \field{title}{Analyzing students online learning behavior in blended courses using Moodle}
+      \field{volume}{12}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1108/AAOUJ-01-2017-0016
+      \endverb
+    \endentry
+    \entry{Sushil}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ef81478ff3ffec0a162d4f12561b5834}{%
+           family={Sushil\bibnamedelima Shrestha},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Manish\bibnamedelima Pokharel},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef81478ff3ffec0a162d4f12561b5834}
+      \strng{fullhash}{ef81478ff3ffec0a162d4f12561b5834}
+      \strng{bibnamehash}{ef81478ff3ffec0a162d4f12561b5834}
+      \strng{authorbibnamehash}{ef81478ff3ffec0a162d4f12561b5834}
+      \strng{authornamehash}{ef81478ff3ffec0a162d4f12561b5834}
+      \strng{authorfullhash}{ef81478ff3ffec0a162d4f12561b5834}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Informatics and Communication Technology}
+      \field{number}{1}
+      \field{title}{Educational data mining in moodle data}
+      \field{volume}{10}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.11591/ijict.v10i1.pp9-18
+      \endverb
+    \endentry
+    \entry{murad2018recommendation}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=25a81f4581bd1cfdfa70dba01388c735}{%
+           family={Murad},
+           familyi={M\bibinitperiod},
+           given={Dzulkifli\bibnamedelima Fadhil},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=af69cc774139b873e5c9b8ad0c669194}{%
+           family={Heryadi},
+           familyi={H\bibinitperiod},
+           given={Yanto},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=806686cbcc2a97d34dbe5366fd07d818}{%
+           family={Wijanarko},
+           familyi={W\bibinitperiod},
+           given={Budi\bibnamedelima Dharma},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=058acdf0e07e52cca00ae22de45b0209}{%
+           family={Isa},
+           familyi={I\bibinitperiod},
+           given={Shahrul\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=036eb0d36f3f511d638929f6006b5aad}{%
+           family={Budiharto},
+           familyi={B\bibinitperiod},
+           given={Widodo},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bangkok, Thailand}%
+      }
+      \strng{namehash}{383c3aea22cda7afd4c33c55094f0390}
+      \strng{fullhash}{077c6ecc647ec4c359ba7bb7a217fb14}
+      \strng{bibnamehash}{077c6ecc647ec4c359ba7bb7a217fb14}
+      \strng{authorbibnamehash}{077c6ecc647ec4c359ba7bb7a217fb14}
+      \strng{authornamehash}{383c3aea22cda7afd4c33c55094f0390}
+      \strng{authorfullhash}{077c6ecc647ec4c359ba7bb7a217fb14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 4th International Conference on Computing, Engineering and Design ({ICCED})}
+      \field{title}{Recommendation system for smart {LMS} using machine learning: a literature review}
+      \field{year}{2018}
+      \field{pages}{113\bibrangedash 118}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICCED.2018.00031
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/ICCED.2018.00031
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/ICCED.2018.00031
+      \endverb
+    \endentry
+    \entry{Suleiman}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b58776ef4cef485b7b381ad9daad8760}{%
+           family={Suleiman},
+           familyi={S\bibinitperiod},
+           given={Anane},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b58776ef4cef485b7b381ad9daad8760}
+      \strng{fullhash}{b58776ef4cef485b7b381ad9daad8760}
+      \strng{bibnamehash}{b58776ef4cef485b7b381ad9daad8760}
+      \strng{authorbibnamehash}{b58776ef4cef485b7b381ad9daad8760}
+      \strng{authornamehash}{b58776ef4cef485b7b381ad9daad8760}
+      \strng{authorfullhash}{b58776ef4cef485b7b381ad9daad8760}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Conference on Computer Supported Cooperative Work in Design}
+      \field{number}{1}
+      \field{title}{Recommen- dation system for smart LMS using machine learning: a literature review}
+      \field{volume}{10}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1109/CSCWD54268.2022.9776102
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/CSCWD54268.2022.9776102
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/CSCWD54268.2022.9776102
+      \endverb
+    \endentry
+    \entry{conijn2016predicting}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d9f5d9f04c3447a6fa124ee91c647aa7}{%
+           family={Conijn},
+           familyi={C\bibinitperiod},
+           given={Rianne},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3e8c71c7058d255932d5d9c06130619f}{%
+           family={Snijders},
+           familyi={S\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1504cea542a3747c1e347f569e8bd17b}{%
+           family={Kleingeld},
+           familyi={K\bibinitperiod},
+           given={Ad},
+           giveni={A\bibinitperiod}}}%
+        {{hash=33b3a8e94df3781f25845b1e4e097db7}{%
+           family={Matzat},
+           familyi={M\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c509f0320e35f9c19f582432decfd66}
+      \strng{fullhash}{a5959b8104aab04ab627c4947d8f1d29}
+      \strng{bibnamehash}{a5959b8104aab04ab627c4947d8f1d29}
+      \strng{authorbibnamehash}{a5959b8104aab04ab627c4947d8f1d29}
+      \strng{authornamehash}{6c509f0320e35f9c19f582432decfd66}
+      \strng{authorfullhash}{a5959b8104aab04ab627c4947d8f1d29}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Learning Technologies}
+      \field{number}{1}
+      \field{title}{Predicting student performance from {LMS} data: A comparison of 17 blended courses using {Moodle LMS}}
+      \field{volume}{10}
+      \field{year}{2016}
+      \field{pages}{17\bibrangedash 29}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TLT.2016.2616312
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TLT.2016.2616312
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TLT.2016.2616312
+      \endverb
+    \endentry
+    \entry{ljubobratovic2019using}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=bcb487a21fb7c2a560a014e9a61a1b9a}{%
+           family={Ljubobratović},
+           familyi={L\bibinitperiod},
+           given={Dejan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=000a27c034461a1f89ccda85ae1ad2c2}{%
+           family={Matetić},
+           familyi={M\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a43e92da58fb66c34a0ad89ee18c98ad}
+      \strng{fullhash}{a43e92da58fb66c34a0ad89ee18c98ad}
+      \strng{bibnamehash}{a43e92da58fb66c34a0ad89ee18c98ad}
+      \strng{authorbibnamehash}{a43e92da58fb66c34a0ad89ee18c98ad}
+      \strng{authornamehash}{a43e92da58fb66c34a0ad89ee18c98ad}
+      \strng{authorfullhash}{a43e92da58fb66c34a0ad89ee18c98ad}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 7th International Conference on Future of Information Sciences: Knowledge in the Digital}
+      \field{title}{Using {LMS} activity logs to predict student failure with random forest algorithm}
+      \field{year}{2019}
+      \field{pages}{113\bibrangedash 119}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.17234/INFUTURE.2019.14
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.17234/INFUTURE.2019.14
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.17234/INFUTURE.2019.14
+      \endverb
+    \endentry
+    \entry{nguyen2021using}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1c9d467a59d21cb459377cdce9b005f9}{%
+           family={Thi-Diem\bibnamedelima Nguyen},
+           familyi={T\bibinithyphendelim D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Anh},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c9d467a59d21cb459377cdce9b005f9}
+      \strng{fullhash}{1c9d467a59d21cb459377cdce9b005f9}
+      \strng{bibnamehash}{1c9d467a59d21cb459377cdce9b005f9}
+      \strng{authorbibnamehash}{1c9d467a59d21cb459377cdce9b005f9}
+      \strng{authornamehash}{1c9d467a59d21cb459377cdce9b005f9}
+      \strng{authorfullhash}{1c9d467a59d21cb459377cdce9b005f9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computing \& Digital System}
+      \field{number}{1}
+      \field{title}{Using machine learning to predict the low grade risk for students based on log file in {Moodle} learning management system}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{1134\bibrangedash 1140}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.12785/ijcds/110191
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.12785/ijcds/110191
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.12785/ijcds/110191
+      \endverb
+    \endentry
+    \entry{maraza-quispe2021predictive}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=14f1b34c0e9090332f3ce42d257fb4ee}{%
+           family={Maraza-Quispe},
+           familyi={M\bibinithyphendelim Q\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+        {{hash=938339f935d16eae3150c7a291ab6455}{%
+           family={Damian\bibnamedelima Valderrama-Chauca},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinithyphendelim C\bibinitperiod},
+           given={Erick},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5cb5e76b4ddd6ad61808ea553d00b37f}{%
+           family={Henry\bibnamedelima Cari-Mogrovejo},
+           familyi={H\bibinitperiod\bibinitdelim C\bibinithyphendelim M\bibinitperiod},
+           given={Lenin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fcb3e7608a9de06817fbea04d715be26}{%
+           family={Milton\bibnamedelima Apaza-Huanca},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinithyphendelim H\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f12d9ebfbf5dc067cdfb0728895c7872}
+      \strng{fullhash}{8f5f4e7d22d60e0b851c4312890a21a0}
+      \strng{bibnamehash}{8f5f4e7d22d60e0b851c4312890a21a0}
+      \strng{authorbibnamehash}{8f5f4e7d22d60e0b851c4312890a21a0}
+      \strng{authornamehash}{f12d9ebfbf5dc067cdfb0728895c7872}
+      \strng{authorfullhash}{8f5f4e7d22d60e0b851c4312890a21a0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 13th International Conference on Education Technology and Computers ({ICETC})}
+      \field{title}{Predictive model of student academic performance from {LMS} data based on learning analytics}
+      \field{year}{2021}
+      \field{pages}{13\bibrangedash 19}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/3498765.3498768
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3498765.3498768
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3498765.3498768
+      \endverb
+    \endentry
+    \entry{mi2022research}{article}{}
+      \name{author}{4}{}{%
+        {{hash=55248bbe69a26eeec73a188026039c8e}{%
+           family={Mi},
+           familyi={M\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cffc54a0d8a4aa2f7d9c15b10368818d}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Zhanhong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ab5652acf0de64074be2a35319b7c36a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=a431da2edf0643199141d6272598c34c}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Yonghui},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{2856f07e06bfc47fd821586c04f11134}
+      \strng{fullhash}{207bc4b225a0a39e4adb9bb9ec8bb313}
+      \strng{bibnamehash}{207bc4b225a0a39e4adb9bb9ec8bb313}
+      \strng{authorbibnamehash}{207bc4b225a0a39e4adb9bb9ec8bb313}
+      \strng{authornamehash}{2856f07e06bfc47fd821586c04f11134}
+      \strng{authorfullhash}{207bc4b225a0a39e4adb9bb9ec8bb313}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Emerging Technologies in Learning}
+      \field{number}{7}
+      \field{title}{Research on constructing online learning performance prediction model combining feature selection and neural network}
+      \field{volume}{17}
+      \field{year}{2022}
+      \field{pages}{94\bibrangedash 111}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3991/ijet.v17i07.25587
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3991/ijet.v17i07.25587
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3991/ijet.v17i07.25587
+      \endverb
+    \endentry
+    \entry{khan2021machine}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4e0228e5ed6ae9192b816c25d377fe10}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Imran},
+           giveni={I\bibinitperiod}}}%
+        {{hash=41fdbf13ef893efda671591ea23183d4}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Abdul\bibnamedelima Rahim},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9fdf84824399b72788e64cf86024213b}{%
+           family={Jabeur},
+           familyi={J\bibinitperiod},
+           given={Najla},
+           giveni={N\bibinitperiod}}}%
+        {{hash=93d6697e5b8d3b7b4596bd9da8238d41}{%
+           family={Mahdi},
+           familyi={M\bibinitperiod},
+           given={Mohd\bibnamedelima Nizam},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{cee09abad7f0655c50deeccb3c882f6e}
+      \strng{fullhash}{26a8ecf9273fbd1616597f0cb78aed47}
+      \strng{bibnamehash}{26a8ecf9273fbd1616597f0cb78aed47}
+      \strng{authorbibnamehash}{26a8ecf9273fbd1616597f0cb78aed47}
+      \strng{authornamehash}{cee09abad7f0655c50deeccb3c882f6e}
+      \strng{authorfullhash}{26a8ecf9273fbd1616597f0cb78aed47}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Emerging Technologies in Learning}
+      \field{number}{17}
+      \field{title}{Machine learning prediction and recommendation framework to support introductory programming course}
+      \field{volume}{16}
+      \field{year}{2021}
+      \field{pages}{42\bibrangedash 59}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3991/ijet.v16i17.18995
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3991/ijet.v16i17.18995
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3991/ijet.v16i17.18995
+      \endverb
+    \endentry
+    \entry{andreaperlato}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{andreaperlato}
+      \verb{urlraw}
+      \verb https://www.andreaperlato.com/mlpost/feature-selection-using-boruta-algorithm/
+      \endverb
+      \verb{url}
+      \verb https://www.andreaperlato.com/mlpost/feature-selection-using-boruta-algorithm/
+      \endverb
+    \endentry
+    \entry{faul2019concise}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fbb3bfeedcc499ba78d013b90061b0e8}{%
+           family={Faul},
+           familyi={F\bibinitperiod},
+           given={Andreas\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{fbb3bfeedcc499ba78d013b90061b0e8}
+      \strng{fullhash}{fbb3bfeedcc499ba78d013b90061b0e8}
+      \strng{bibnamehash}{fbb3bfeedcc499ba78d013b90061b0e8}
+      \strng{authorbibnamehash}{fbb3bfeedcc499ba78d013b90061b0e8}
+      \strng{authornamehash}{fbb3bfeedcc499ba78d013b90061b0e8}
+      \strng{authorfullhash}{fbb3bfeedcc499ba78d013b90061b0e8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Concise Introduction to Machine Learning}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1201/9781351204750
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1201/9781351204750
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1201/9781351204750
+      \endverb
+    \endentry
+    \entry{wei-meng2019python}{book}{}
+      \name{author}{1}{}{%
+        {{hash=88465e95feec3a7d6baeaa8e487cff99}{%
+           family={Wei-Meng},
+           familyi={W\bibinithyphendelim M\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Press}%
+      }
+      \strng{namehash}{88465e95feec3a7d6baeaa8e487cff99}
+      \strng{fullhash}{88465e95feec3a7d6baeaa8e487cff99}
+      \strng{bibnamehash}{88465e95feec3a7d6baeaa8e487cff99}
+      \strng{authorbibnamehash}{88465e95feec3a7d6baeaa8e487cff99}
+      \strng{authornamehash}{88465e95feec3a7d6baeaa8e487cff99}
+      \strng{authorfullhash}{88465e95feec3a7d6baeaa8e487cff99}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Python Machine Learning}
+      \field{year}{2019}
+    \endentry
+    \entry{rehman2019automatic}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f1a9f3e1ab6907182ce76c830c4589d3}{%
+           family={Rehman},
+           familyi={R\bibinitperiod},
+           given={Atiq},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f8fae40f79e90ebc44f14fdd9043637d}{%
+           family={Naz},
+           familyi={N\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2221e3b79a1bd43fadcf69e0a1ef9f82}{%
+           family={Razzak},
+           familyi={R\bibinitperiod},
+           given={Muhammad\bibnamedelima Irfan},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=b3cb5d23625b95787d775c2fc803f28a}{%
+           family={Hameed},
+           familyi={H\bibinitperiod},
+           given={Imran\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{37eead0203c5afb5f5939f9c24e780bb}
+      \strng{fullhash}{563ac938152cfa50ab6f174b58eee679}
+      \strng{bibnamehash}{563ac938152cfa50ab6f174b58eee679}
+      \strng{authorbibnamehash}{563ac938152cfa50ab6f174b58eee679}
+      \strng{authornamehash}{37eead0203c5afb5f5939f9c24e780bb}
+      \strng{authorfullhash}{563ac938152cfa50ab6f174b58eee679}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Automatic Visual Features for Writer Identification: A Deep Learning Approach}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{17149\bibrangedash 17157}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2018.2890810
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/ACCESS.2018.2890810
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/ACCESS.2018.2890810
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
