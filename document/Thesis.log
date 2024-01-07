@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.29)  4 JAN 2024 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.29)  7 JAN 2024 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1076,7 +1076,7 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./Thesis.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
- (./FrontMatter/Dedication.aux) (./FrontMatter/Thanks.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
+ (./FrontMatter/Dedication.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -1149,6 +1149,46 @@ File: Graphics/uhlogo.pdf Graphic file (type pdf)
 <use Graphics/uhlogo.pdf>
 Package pdftex.def Info: Graphics/uhlogo.pdf  used on input line 81.
 (pdftex.def)             Requested size: 49.79231pt x 63.7885pt.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 81.
+ (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 81.
+ (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 81.
+ (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 81.
+ (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 81.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 81.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 81.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 81.
+ (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7.4> on input line 81.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 81.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
  [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./Graphics/uhlogo.pdf>]
@@ -1158,30 +1198,36 @@ Package pdftex.def Info: Graphics/uhlogo.pdf  used on input line 81.
 
 
 ]
-\openout2 = `FrontMatter/Thanks.aux'.
-
- (./FrontMatter/Thanks.tex) [3
-
-
-
-
-]
 \openout2 = `FrontMatter/SupervisorOpinion.aux'.
 
- (./FrontMatter/SupervisorOpinion.tex) [4
+ (./FrontMatter/SupervisorOpinion.tex [3
 
 
 
 
-]
+]) [4]
 \openout2 = `FrontMatter/Abstract.aux'.
 
- (./FrontMatter/Abstract.tex [5
+ (./FrontMatter/Abstract.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+ [5
 
 
 
 
-]) [6
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
+Overfull \hbox (3.42159pt too wide) in paragraph at lines 22--23
+\T1/lmr/m/n/12 re-du-ce dro-pout ra-tes. The re-search eva-lua-ted the mo-dels with five-fold cross-validation.
+ []
+
+) [6
 
 ]
 \openout2 = `FrontMatter/Contents.aux'.
@@ -1190,38 +1236,6 @@ Package pdftex.def Info: Graphics/uhlogo.pdf  used on input line 81.
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
- (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
- (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
- (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
- (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 4.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4.
- (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
  [7
 
 
@@ -1239,13 +1253,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lof=\write8
 \openout8 = `Thesis.lof'.
 
- [9
-
-] (./Thesis.lol)
-\tf@lol=\write9
-\openout9 = `Thesis.lol'.
-
-) [10
+) [9
 
 ]
 \openout2 = `MainMatter/Introduction.aux'.
@@ -1267,18 +1275,6 @@ Cap\'{\i }tulo 1.
 
 
 ]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 17.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.4> on input line 17.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 17.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
  [6]
@@ -1294,24 +1290,24 @@ LaTeX Info: Redefining \% on input line 79.
 LaTeX Info: Redefining \. on input line 97.
 LaTeX Info: Redefining \% on input line 97.
  [10]
-LaTeX Info: Redefining \. on input line 120.
-LaTeX Info: Redefining \% on input line 120.
+LaTeX Info: Redefining \. on input line 125.
+LaTeX Info: Redefining \% on input line 125.
  [11]
-LaTeX Info: Redefining \. on input line 136.
-LaTeX Info: Redefining \% on input line 136.
+LaTeX Info: Redefining \. on input line 135.
+LaTeX Info: Redefining \% on input line 135.
  [12]
-LaTeX Info: Redefining \. on input line 156.
-LaTeX Info: Redefining \% on input line 156.
+LaTeX Info: Redefining \. on input line 158.
+LaTeX Info: Redefining \% on input line 158.
  [13]
-LaTeX Info: Redefining \. on input line 179.
-LaTeX Info: Redefining \% on input line 179.
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
  [14]
-Overfull \hbox (7.5299pt too wide) in paragraph at lines 186--187
+Overfull \hbox (7.5299pt too wide) in paragraph at lines 185--186
 []\T1/lmr/m/n/12 Aprendizaje no su-per-vi-sa-do: Los mé-to-dos no su-per-vi-sa-dos (\T1/lmr/m/it/12 un-su-per-vi-sed methods\T1/lmr/m/n/12 )
  []
 
-LaTeX Info: Redefining \. on input line 199.
-LaTeX Info: Redefining \% on input line 199.
+LaTeX Info: Redefining \. on input line 203.
+LaTeX Info: Redefining \% on input line 203.
 [15])
 LaTeX Info: Redefining \. on input line 92.
 LaTeX Info: Redefining \% on input line 92.
@@ -1320,78 +1316,78 @@ LaTeX Info: Redefining \% on input line 92.
 
  (./MainMatter/Proposal.tex
 Cap\'{\i }tulo 2.
-<Graphics/Pasted image 20231227101635.png, id=449, 717.43031pt x 298.11375pt>
-File: Graphics/Pasted image 20231227101635.png Graphic file (type png)
-<use Graphics/Pasted image 20231227101635.png>
-Package pdftex.def Info: Graphics/Pasted image 20231227101635.png  used on input line 17.
-(pdftex.def)             Requested size: 433.62pt x 180.18423pt.
 [17
 
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
- [18 <./Graphics/Pasted image 20231227101635.png>]
-LaTeX Info: Redefining \. on input line 56.
-LaTeX Info: Redefining \% on input line 56.
- [19]
-<Graphics/Pasted image 20240103010810.png, id=465, 432.11438pt x 243.91125pt>
+<Graphics/Pasted image 20231227101635.png, id=455, 717.43031pt x 298.11375pt>
+File: Graphics/Pasted image 20231227101635.png Graphic file (type png)
+<use Graphics/Pasted image 20231227101635.png>
+Package pdftex.def Info: Graphics/Pasted image 20231227101635.png  used on input line 34.
+(pdftex.def)             Requested size: 433.62pt x 180.18423pt.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [18]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [19 <./Graphics/Pasted image 20231227101635.png>]
+<Graphics/Pasted image 20240103010810.png, id=467, 432.11438pt x 243.91125pt>
 File: Graphics/Pasted image 20240103010810.png Graphic file (type png)
 <use Graphics/Pasted image 20240103010810.png>
-Package pdftex.def Info: Graphics/Pasted image 20240103010810.png  used on input line 65.
+Package pdftex.def Info: Graphics/Pasted image 20240103010810.png  used on input line 66.
 (pdftex.def)             Requested size: 433.62pt x 244.77037pt.
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \. on input line 76.
+LaTeX Info: Redefining \% on input line 76.
  [20 <./Graphics/Pasted image 20240103010810.png>]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 94.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 95.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \. on input line 100.
-LaTeX Info: Redefining \% on input line 100.
- [21{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 106.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+ [21{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 107.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
  [22]
-LaTeX Info: Redefining \. on input line 139.
-LaTeX Info: Redefining \% on input line 139.
+LaTeX Info: Redefining \. on input line 140.
+LaTeX Info: Redefining \% on input line 140.
  [23]
-LaTeX Info: Redefining \. on input line 161.
-LaTeX Info: Redefining \% on input line 161.
+LaTeX Info: Redefining \. on input line 162.
+LaTeX Info: Redefining \% on input line 162.
  [24]
-<Graphics/Pasted image 20240101131345.png, id=497, 602.25pt x 324.46219pt>
+LaTeX Info: Redefining \. on input line 180.
+LaTeX Info: Redefining \% on input line 180.
+ [25]
+<Graphics/Pasted image 20240101131345.png, id=506, 602.25pt x 324.46219pt>
 File: Graphics/Pasted image 20240101131345.png Graphic file (type png)
 <use Graphics/Pasted image 20240101131345.png>
 Package pdftex.def Info: Graphics/Pasted image 20240101131345.png  used on input line 183.
 (pdftex.def)             Requested size: 433.62pt x 233.62248pt.
-LaTeX Info: Redefining \. on input line 189.
-LaTeX Info: Redefining \% on input line 189.
- [25]
-LaTeX Info: Redefining \. on input line 193.
-LaTeX Info: Redefining \% on input line 193.
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
  [26 <./Graphics/Pasted image 20240101131345.png>]
-<Graphics/Pasted image 20240101133925.png, id=512, 291.33844pt x 170.88844pt>
+LaTeX Info: Redefining \. on input line 208.
+LaTeX Info: Redefining \% on input line 208.
+ [27]
+<Graphics/Pasted image 20240101133925.png, id=525, 291.33844pt x 170.88844pt>
 File: Graphics/Pasted image 20240101133925.png Graphic file (type png)
 <use Graphics/Pasted image 20240101133925.png>
-Package pdftex.def Info: Graphics/Pasted image 20240101133925.png  used on input line 202.
+Package pdftex.def Info: Graphics/Pasted image 20240101133925.png  used on input line 211.
 (pdftex.def)             Requested size: 433.62pt x 254.36592pt.
-LaTeX Info: Redefining \. on input line 211.
-LaTeX Info: Redefining \% on input line 211.
- [27]
-LaTeX Info: Redefining \. on input line 228.
-LaTeX Info: Redefining \% on input line 228.
+LaTeX Info: Redefining \. on input line 229.
+LaTeX Info: Redefining \% on input line 229.
  [28 <./Graphics/Pasted image 20240101133925.png>]
-LaTeX Info: Redefining \. on input line 236.
-LaTeX Info: Redefining \% on input line 236.
+LaTeX Info: Redefining \. on input line 243.
+LaTeX Info: Redefining \% on input line 243.
  [29{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-LaTeX Info: Redefining \. on input line 257.
-LaTeX Info: Redefining \% on input line 257.
+LaTeX Info: Redefining \. on input line 260.
+LaTeX Info: Redefining \% on input line 260.
  [30])
 LaTeX Info: Redefining \. on input line 93.
 LaTeX Info: Redefining \% on input line 93.
@@ -1400,154 +1396,155 @@ LaTeX Info: Redefining \% on input line 93.
 
  (./MainMatter/Implementation.tex
 Cap\'{\i }tulo 3.
-<Graphics/code.png, id=569, 1469.49pt x 788.9475pt>
-File: Graphics/code.png Graphic file (type png)
-<use Graphics/code.png>
-Package pdftex.def Info: Graphics/code.png  used on input line 22.
-(pdftex.def)             Requested size: 433.62pt x 232.79768pt.
-<Graphics/dataset1_view.jpg, id=573, 481.8pt x 276.28218pt>
-File: Graphics/dataset1_view.jpg Graphic file (type jpg)
-<use Graphics/dataset1_view.jpg>
-Package pdftex.def Info: Graphics/dataset1_view.jpg  used on input line 34.
-(pdftex.def)             Requested size: 433.62pt x 248.66008pt.
-<Graphics/dataset2_view.jpg, id=574, 813.0375pt x 203.25937pt>
-File: Graphics/dataset2_view.jpg Graphic file (type jpg)
-<use Graphics/dataset2_view.jpg>
-Package pdftex.def Info: Graphics/dataset2_view.jpg  used on input line 41.
-(pdftex.def)             Requested size: 433.62pt x 108.40306pt.
 [32
 
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
+<Graphics/code.png, id=578, 1469.49pt x 788.9475pt>
+File: Graphics/code.png Graphic file (type png)
+<use Graphics/code.png>
+Package pdftex.def Info: Graphics/code.png  used on input line 26.
+(pdftex.def)             Requested size: 433.62pt x 232.79768pt.
+<Graphics/dataset1_view.jpg, id=581, 481.8pt x 276.28218pt>
+File: Graphics/dataset1_view.jpg Graphic file (type jpg)
+<use Graphics/dataset1_view.jpg>
+Package pdftex.def Info: Graphics/dataset1_view.jpg  used on input line 35.
+(pdftex.def)             Requested size: 433.63069pt x 199.16751pt.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
  [33 <./Graphics/code.png> <./Graphics/dataset1_view.jpg>]
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
+<Graphics/dataset2_view.jpg, id=587, 813.0375pt x 203.25937pt>
+File: Graphics/dataset2_view.jpg Graphic file (type jpg)
+<use Graphics/dataset2_view.jpg>
+Package pdftex.def Info: Graphics/dataset2_view.jpg  used on input line 43.
+(pdftex.def)             Requested size: 433.61232pt x 256.08333pt.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
  [34 <./Graphics/dataset2_view.jpg>]
-<Graphics/corr_dataset1.jpg, id=593, 614.295pt x 206.27063pt>
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+ [35]
+<Graphics/corr_dataset1.jpg, id=601, 614.295pt x 206.27063pt>
 File: Graphics/corr_dataset1.jpg Graphic file (type jpg)
 <use Graphics/corr_dataset1.jpg>
-Package pdftex.def Info: Graphics/corr_dataset1.jpg  used on input line 84.
+Package pdftex.def Info: Graphics/corr_dataset1.jpg  used on input line 92.
 (pdftex.def)             Requested size: 433.62pt x 145.60335pt.
-<Graphics/boruta_dataset1.jpg, id=594, 143.78719pt x 187.45032pt>
+<Graphics/boruta_dataset1.jpg, id=602, 143.78719pt x 187.45032pt>
 File: Graphics/boruta_dataset1.jpg Graphic file (type jpg)
 <use Graphics/boruta_dataset1.jpg>
-Package pdftex.def Info: Graphics/boruta_dataset1.jpg  used on input line 99.
-(pdftex.def)             Requested size: 109.13239pt x 142.26378pt.
-<Graphics/dataset_1_25.png, id=599, 522.95375pt x 226.8475pt>
+Package pdftex.def Info: Graphics/boruta_dataset1.jpg  used on input line 103.
+(pdftex.def)             Requested size: 76.38895pt x 99.58464pt.
+<Graphics/dataset_1_25.png, id=605, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_1_25.png Graphic file (type png)
 <use Graphics/dataset_1_25.png>
 Package pdftex.def Info: Graphics/dataset_1_25.png  used on input line 121.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_1_50.png, id=600, 522.95375pt x 226.8475pt>
+<Graphics/dataset_1_50.png, id=606, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_1_50.png Graphic file (type png)
 <use Graphics/dataset_1_50.png>
 Package pdftex.def Info: Graphics/dataset_1_50.png  used on input line 127.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
- [35 <./Graphics/corr_dataset1.jpg>]
-<Graphics/dataset_1_75.png, id=605, 522.95375pt x 226.8475pt>
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
+ [36 <./Graphics/corr_dataset1.jpg> <./Graphics/boruta_dataset1.jpg> <./Graphics/dataset_1_25.png> <./Graphics/dataset_1_50.png>]
+<Graphics/dataset_1_75.png, id=613, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_1_75.png Graphic file (type png)
 <use Graphics/dataset_1_75.png>
-Package pdftex.def Info: Graphics/dataset_1_75.png  used on input line 137.
+Package pdftex.def Info: Graphics/dataset_1_75.png  used on input line 138.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/datatset_1_100.png, id=606, 522.95375pt x 226.8475pt>
+<Graphics/datatset_1_100.png, id=614, 522.95375pt x 226.8475pt>
 File: Graphics/datatset_1_100.png Graphic file (type png)
 <use Graphics/datatset_1_100.png>
-Package pdftex.def Info: Graphics/datatset_1_100.png  used on input line 143.
+Package pdftex.def Info: Graphics/datatset_1_100.png  used on input line 144.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-LaTeX Info: Redefining \. on input line 155.
-LaTeX Info: Redefining \% on input line 155.
- [36 <./Graphics/boruta_dataset1.jpg> <./Graphics/dataset_1_25.png> <./Graphics/dataset_1_50.png> <./Graphics/dataset_1_75.png> <./Graphics/datatset_1_100.png>]
-<Graphics/dataset_1_fs_25.png, id=621, 522.95375pt x 226.8475pt>
+<Graphics/dataset_1_fs_25.png, id=623, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_1_fs_25.png Graphic file (type png)
 <use Graphics/dataset_1_fs_25.png>
-Package pdftex.def Info: Graphics/dataset_1_fs_25.png  used on input line 168.
+Package pdftex.def Info: Graphics/dataset_1_fs_25.png  used on input line 171.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_1_fs_50.png, id=622, 522.95375pt x 226.8475pt>
+<Graphics/dataset_1_fs_50.png, id=624, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_1_fs_50.png Graphic file (type png)
 <use Graphics/dataset_1_fs_50.png>
-Package pdftex.def Info: Graphics/dataset_1_fs_50.png  used on input line 174.
+Package pdftex.def Info: Graphics/dataset_1_fs_50.png  used on input line 177.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_1_fs_75.png, id=623, 522.95375pt x 226.8475pt>
+<Graphics/dataset_1_fs_75.png, id=625, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_1_fs_75.png Graphic file (type png)
 <use Graphics/dataset_1_fs_75.png>
-Package pdftex.def Info: Graphics/dataset_1_fs_75.png  used on input line 184.
+Package pdftex.def Info: Graphics/dataset_1_fs_75.png  used on input line 187.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_1_fs_100.png, id=624, 522.95375pt x 226.8475pt>
+<Graphics/dataset_1_fs_100.png, id=626, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_1_fs_100.png Graphic file (type png)
 <use Graphics/dataset_1_fs_100.png>
-Package pdftex.def Info: Graphics/dataset_1_fs_100.png  used on input line 190.
+Package pdftex.def Info: Graphics/dataset_1_fs_100.png  used on input line 193.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
- [37 <./Graphics/dataset_1_fs_25.png> <./Graphics/dataset_1_fs_50.png> <./Graphics/dataset_1_fs_75.png> <./Graphics/dataset_1_fs_100.png>]
-<Graphics/corr_dataset2.jpg, id=633, 813.0375pt x 240.9pt>
+LaTeX Info: Redefining \. on input line 202.
+LaTeX Info: Redefining \% on input line 202.
+ [37 <./Graphics/dataset_1_75.png> <./Graphics/datatset_1_100.png>]
+LaTeX Info: Redefining \. on input line 213.
+LaTeX Info: Redefining \% on input line 213.
+ [38 <./Graphics/dataset_1_fs_25.png> <./Graphics/dataset_1_fs_50.png> <./Graphics/dataset_1_fs_75.png> <./Graphics/dataset_1_fs_100.png>]
+<Graphics/corr_dataset2.jpg, id=643, 813.0375pt x 240.9pt>
 File: Graphics/corr_dataset2.jpg Graphic file (type jpg)
 <use Graphics/corr_dataset2.jpg>
-Package pdftex.def Info: Graphics/corr_dataset2.jpg  used on input line 203.
+Package pdftex.def Info: Graphics/corr_dataset2.jpg  used on input line 216.
 (pdftex.def)             Requested size: 433.62pt x 128.4777pt.
-<Graphics/boruta_dataset2.jpg, id=636, 133.24782pt x 331.2375pt>
+<Graphics/boruta_dataset2.jpg, id=644, 133.24782pt x 331.2375pt>
 File: Graphics/boruta_dataset2.jpg Graphic file (type jpg)
 <use Graphics/boruta_dataset2.jpg>
-Package pdftex.def Info: Graphics/boruta_dataset2.jpg  used on input line 219.
-(pdftex.def)             Requested size: 68.67319pt x 170.71652pt.
-<Graphics/dataset_2_25.png, id=638, 522.95375pt x 226.8475pt>
+Package pdftex.def Info: Graphics/boruta_dataset2.jpg  used on input line 227.
+(pdftex.def)             Requested size: 113.8142pt x 199.16858pt.
+<Graphics/dataset_2_25.png, id=646, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_25.png Graphic file (type png)
 <use Graphics/dataset_2_25.png>
-Package pdftex.def Info: Graphics/dataset_2_25.png  used on input line 234.
+Package pdftex.def Info: Graphics/dataset_2_25.png  used on input line 242.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_2_50.png, id=639, 522.95375pt x 226.8475pt>
+<Graphics/dataset_2_50.png, id=647, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_50.png Graphic file (type png)
 <use Graphics/dataset_2_50.png>
-Package pdftex.def Info: Graphics/dataset_2_50.png  used on input line 240.
+Package pdftex.def Info: Graphics/dataset_2_50.png  used on input line 248.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_2_75.png, id=640, 522.95375pt x 226.8475pt>
+<Graphics/dataset_2_75.png, id=648, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_75.png Graphic file (type png)
 <use Graphics/dataset_2_75.png>
-Package pdftex.def Info: Graphics/dataset_2_75.png  used on input line 250.
+Package pdftex.def Info: Graphics/dataset_2_75.png  used on input line 258.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_2_100.png, id=641, 522.95375pt x 226.8475pt>
+<Graphics/dataset_2_100.png, id=649, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_100.png Graphic file (type png)
 <use Graphics/dataset_2_100.png>
-Package pdftex.def Info: Graphics/dataset_2_100.png  used on input line 256.
+Package pdftex.def Info: Graphics/dataset_2_100.png  used on input line 264.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-LaTeX Info: Redefining \. on input line 268.
-LaTeX Info: Redefining \% on input line 268.
- [38 <./Graphics/corr_dataset2.jpg>]
-LaTeX Info: Redefining \. on input line 269.
-LaTeX Info: Redefining \% on input line 269.
- [39 <./Graphics/boruta_dataset2.jpg> <./Graphics/dataset_2_25.png> <./Graphics/dataset_2_50.png> <./Graphics/dataset_2_75.png> <./Graphics/dataset_2_100.png>]
-<Graphics/dataset_2_fs_25.png, id=663, 522.95375pt x 226.8475pt>
+LaTeX Info: Redefining \. on input line 276.
+LaTeX Info: Redefining \% on input line 276.
+ [39 <./Graphics/corr_dataset2.jpg> <./Graphics/boruta_dataset2.jpg>]
+<Graphics/dataset_2_fs_25.png, id=662, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_fs_25.png Graphic file (type png)
 <use Graphics/dataset_2_fs_25.png>
-Package pdftex.def Info: Graphics/dataset_2_fs_25.png  used on input line 281.
+Package pdftex.def Info: Graphics/dataset_2_fs_25.png  used on input line 289.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_2_fs_50.png, id=664, 522.95375pt x 226.8475pt>
+<Graphics/dataset_2_fs_50.png, id=663, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_fs_50.png Graphic file (type png)
 <use Graphics/dataset_2_fs_50.png>
-Package pdftex.def Info: Graphics/dataset_2_fs_50.png  used on input line 287.
+Package pdftex.def Info: Graphics/dataset_2_fs_50.png  used on input line 295.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_2_fs_75.png, id=665, 522.95375pt x 226.8475pt>
+LaTeX Info: Redefining \. on input line 299.
+LaTeX Info: Redefining \% on input line 299.
+ [40 <./Graphics/dataset_2_25.png> <./Graphics/dataset_2_50.png> <./Graphics/dataset_2_75.png> <./Graphics/dataset_2_100.png>]
+<Graphics/dataset_2_fs_75.png, id=673, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_fs_75.png Graphic file (type png)
 <use Graphics/dataset_2_fs_75.png>
-Package pdftex.def Info: Graphics/dataset_2_fs_75.png  used on input line 297.
+Package pdftex.def Info: Graphics/dataset_2_fs_75.png  used on input line 305.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-<Graphics/dataset_2_fs_100.png, id=666, 522.95375pt x 226.8475pt>
+<Graphics/dataset_2_fs_100.png, id=674, 522.95375pt x 226.8475pt>
 File: Graphics/dataset_2_fs_100.png Graphic file (type png)
 <use Graphics/dataset_2_fs_100.png>
-Package pdftex.def Info: Graphics/dataset_2_fs_100.png  used on input line 303.
+Package pdftex.def Info: Graphics/dataset_2_fs_100.png  used on input line 311.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
-LaTeX Info: Redefining \. on input line 311.
-LaTeX Info: Redefining \% on input line 311.
- [40 <./Graphics/dataset_2_fs_25.png> <./Graphics/dataset_2_fs_50.png> <./Graphics/dataset_2_fs_75.png> <./Graphics/dataset_2_fs_100.png>])
+)
 LaTeX Info: Redefining \. on input line 94.
 LaTeX Info: Redefining \% on input line 94.
- [41]
+ [41 <./Graphics/dataset_2_fs_25.png> <./Graphics/dataset_2_fs_50.png> <./Graphics/dataset_2_fs_75.png> <./Graphics/dataset_2_fs_100.png>]
 \openout2 = `BackMatter/Conclusions.aux'.
 
  (./BackMatter/Conclusions.tex) [42
@@ -1578,30 +1575,30 @@ Overfull \hbox (33.86502pt too wide) in paragraph at lines 1--1
 
 
 
-] [45]) [46] (./Thesis.aux
+] [45] [46]) [47] (./Thesis.aux
 LaTeX Info: Redefining \sptext on input line 24.
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
- (./FrontMatter/Dedication.aux) (./FrontMatter/Thanks.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
+ (./FrontMatter/Dedication.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8ED8EFE6AD1DDA9E0E38D1A89539F2D4;5047.
+(rerunfilecheck)             Checksum: A4D58467C93A4A9753D298B1A2721D5C;5159.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37042 strings out of 476025
- 700981 string characters out of 5794015
- 1867382 words of memory out of 5000000
- 56612 multiletter control sequences out of 15000+600000
- 613528 words of font info for 100 fonts, out of 8000000 for 9000
+ 37012 strings out of 476025
+ 700138 string characters out of 5794015
+ 1868382 words of memory out of 5000000
+ 56589 multiletter control sequences out of 15000+600000
+ 611364 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,13n,120p,1207b,2376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb>
-Output written on Thesis.pdf (56 pages, 1436982 bytes).
+Output written on Thesis.pdf (56 pages, 1445582 bytes).
 PDF statistics:
- 928 PDF objects out of 1000 (max. 8388607)
- 771 compressed objects within 8 object streams
- 179 named destinations out of 1000 (max. 500000)
+ 947 PDF objects out of 1000 (max. 8388607)
+ 790 compressed objects within 8 object streams
+ 181 named destinations out of 1000 (max. 500000)
  369 words of extra memory for PDF output out of 10000 (max. 10000000)
 

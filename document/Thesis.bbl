@@ -270,6 +270,30 @@
       \verb https://docs.moodle.org/all/es/Acerca_de_Moodle
       \endverb
     \endentry
+    \entry{SaaS}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5d25f6f4566b5da4c2571eded4f1ebfb}{%
+           family={easy-lms},
+           familyi={e\bibinithyphendelim l\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d25f6f4566b5da4c2571eded4f1ebfb}
+      \strng{fullhash}{5d25f6f4566b5da4c2571eded4f1ebfb}
+      \strng{bibnamehash}{5d25f6f4566b5da4c2571eded4f1ebfb}
+      \strng{authorbibnamehash}{5d25f6f4566b5da4c2571eded4f1ebfb}
+      \strng{authornamehash}{5d25f6f4566b5da4c2571eded4f1ebfb}
+      \strng{authorfullhash}{5d25f6f4566b5da4c2571eded4f1ebfb}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es un sistema de gestión del aprendizaje basado en la nube (SaaS)?}
+      \verb{urlraw}
+      \verb https://www.easy-lms.com/es/centro-de-conocimiento/centro-lms/que-es-un-lms-basado-en-la-nube-saas/item12782
+      \endverb
+      \verb{url}
+      \verb https://www.easy-lms.com/es/centro-de-conocimiento/centro-lms/que-es-un-lms-basado-en-la-nube-saas/item12782
+      \endverb
+    \endentry
     \entry{Moodle_stats}{online}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
@@ -584,8 +608,8 @@
       \strng{authorbibnamehash}{a5959b8104aab04ab627c4947d8f1d29}
       \strng{authornamehash}{6c509f0320e35f9c19f582432decfd66}
       \strng{authorfullhash}{a5959b8104aab04ab627c4947d8f1d29}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Learning Technologies}
@@ -824,6 +848,41 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.3991/ijet.v16i17.18995
+      \endverb
+    \endentry
+    \entry{Jennifer}{article}{}
+      \name{author}{1}{}{%
+        {{hash=959ab0094b19fe6a86dc50445b57ec34}{%
+           family={Rodolfo\bibnamedelimb C.\bibnamedelimi Raga\bibnamedelima Jr},
+           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Jennifer\bibnamedelimb D.\bibnamedelimi Raga},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{959ab0094b19fe6a86dc50445b57ec34}
+      \strng{fullhash}{959ab0094b19fe6a86dc50445b57ec34}
+      \strng{bibnamehash}{959ab0094b19fe6a86dc50445b57ec34}
+      \strng{authorbibnamehash}{959ab0094b19fe6a86dc50445b57ec34}
+      \strng{authornamehash}{959ab0094b19fe6a86dc50445b57ec34}
+      \strng{authorfullhash}{959ab0094b19fe6a86dc50445b57ec34}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computing Sciences Research}
+      \field{number}{3}
+      \field{title}{Monitoring Class Activity and Predicting Student Performance Using Moodle Action Log Data}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.25147/ijcsr.2017.001.1.09
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.25147/ijcsr.2017.001.1.09
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.25147/ijcsr.2017.001.1.09
       \endverb
     \endentry
     \entry{andreaperlato}{online}{}
