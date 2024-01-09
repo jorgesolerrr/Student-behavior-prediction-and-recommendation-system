@@ -1,0 +1,16 @@
+[1] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'Thesis.blg'
+[339] biber-MSWIN64:340> INFO - === 
+[550] Biber.pm:419> INFO - Reading 'Thesis.bcf'
+[824] Biber.pm:979> INFO - Found 32 citekeys in bib section 0
+[872] Biber.pm:4419> INFO - Processing section 0
+[914] Biber.pm:4610> INFO - Looking for bibtex file 'Bibliography.bib' for section 0
+[1050] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1257] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliography.bib'
+[1588] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1588] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1589] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[1682] bbl.pm:660> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[1706] bbl.pm:763> INFO - Output to Thesis.bbl
+[1707] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Jorge\AppData\Local\Temp\biber_tmp_xOiy\d8dddbe32000187f5d36edf5881fa0cc_6572.utf8, line 92, warning: 35 characters of junk seen at toplevel
+[1707] Biber.pm:133> INFO - WARNINGS: 1

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.29)  7 JAN 2024 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.29)  9 JAN 2024 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -730,7 +730,34 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSb=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+)) (c:/texlive/2023/texmf-dist/tex/latex/qrcode/qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+\c@qr@i=\count433
+\c@qr@j=\count434
+\qr@a=\count435
+\qr@b=\count436
+\qr@c=\count437
+\qr@for@depth=\count438
+\qr@for@maxdepth=\count439
+\qr@for@start=\count440
+\qr@for@end=\count441
+\qr@for@step=\count442
+\qr@newforcount=\count443
+\qr@newforcount=\count444
+\qr@desiredheight=\skip112
+\qr@modulesize=\skip113
+\qr@minipagewidth=\skip114
+\c@maski=\count445
+\c@maskj=\count446
+\c@totalones=\count447
+\c@penaltyi=\count448
+\c@penaltyii=\count449
+\c@penaltyiii=\count450
+\c@penaltyiv=\count451
+\c@qr@hexchars=\count452
+\qr@newforcount=\count453
+\c@qr@divisionsremaining=\count454
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
  (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
@@ -744,8 +771,8 @@ Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@hangindent=\dimen176
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count433
-\c@continuedfloat=\count434
+\c@caption@flags=\count455
+\c@continuedfloat=\count456
 Package caption Info: hyperref package is loaded.
 Package caption Info: subfigure package is loaded.
 ) (c:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -760,16 +787,16 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen184
 \cmidrulekern=\dimen185
 \defaultaddspace=\dimen186
-\@cmidla=\count435
-\@cmidlb=\count436
+\@cmidla=\count457
+\@cmidlb=\count458
 \@aboverulesep=\dimen187
 \@belowrulesep=\dimen188
-\@thisruleclass=\count437
-\@lastruleclass=\count438
+\@thisruleclass=\count459
+\@lastruleclass=\count460
 \@thisrulewidth=\dimen189
 ) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count439
+\c@float@type=\count461
 \float@exts=\toks28
 \float@box=\box63
 \@float@everytoks=\toks29
@@ -807,14 +834,14 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen257
 \w@pgf@writea=\write4
 \r@pgf@reada=\read4
-\c@pgf@counta=\count440
-\c@pgf@countb=\count441
-\c@pgf@countc=\count442
-\c@pgf@countd=\count443
+\c@pgf@counta=\count462
+\c@pgf@countb=\count463
+\c@pgf@countc=\count464
+\c@pgf@countd=\count465
 \t@pgf@toka=\toks34
 \t@pgf@tokb=\toks35
 \t@pgf@tokc=\toks36
-\pgf@sys@id@count=\count444
+\pgf@sys@id@count=\count466
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -825,21 +852,21 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count445
-\pgfsyssoftpath@bigbuffer@items=\count446
+\pgfsyssoftpath@smallbuffer@items=\count467
+\pgfsyssoftpath@bigbuffer@items=\count468
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen258
-\pgfmath@count=\count447
+\pgfmath@count=\count469
 \pgfmath@box=\box66
 \pgfmath@toks=\toks37
 \pgfmath@stack@operand=\toks38
 \pgfmath@stack@operation=\toks39
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count448
+\c@pgfmathroundto@lastzeros=\count470
 )) (c:/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen259
@@ -869,7 +896,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box67
 \pgf@hbox=\box68
 \pgf@layerbox@main=\box69
-\pgf@picture@serial@count=\count449
+\pgf@picture@serial@count=\count471
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen277
@@ -890,8 +917,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen282
-\pgf@sys@shading@range@num=\count450
-\pgf@shadingcount=\count451
+\pgf@sys@shading@range@num=\count472
+\pgf@shadingcount=\count473
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
@@ -926,7 +953,7 @@ Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count452
+\pgf@plot@mark@count=\count474
 \pgfplotmarksize=\dimen287
 )
 \tikz@lastx=\dimen288
@@ -941,52 +968,52 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box73
 \tikz@tempbox=\box74
 \tikz@tempbox@bg=\box75
-\tikztreelevel=\count453
-\tikznumberofchildren=\count454
-\tikznumberofcurrentchild=\count455
-\tikz@fig@count=\count456
+\tikztreelevel=\count475
+\tikznumberofchildren=\count476
+\tikznumberofcurrentchild=\count477
+\tikz@fig@count=\count478
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count457
-\pgfmatrixcurrentcolumn=\count458
-\pgf@matrix@numberofcolumns=\count459
+\pgfmatrixcurrentrow=\count479
+\pgfmatrixcurrentcolumn=\count480
+\pgf@matrix@numberofcolumns=\count481
 )
-\tikz@expandcount=\count460
+\tikz@expandcount=\count482
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count461
-\calc@Bcount=\count462
+\calc@Acount=\count483
+\calc@Bcount=\count484
 \calc@Adimen=\dimen296
 \calc@Bdimen=\dimen297
-\calc@Askip=\skip112
-\calc@Bskip=\skip113
+\calc@Askip=\skip115
+\calc@Bskip=\skip116
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count463
-\calc@Cskip=\skip114
+\calc@Ccount=\count485
+\calc@Cskip=\skip117
 )
-\c@@todonotes@numberoftodonotes=\count464
+\c@@todonotes@numberoftodonotes=\count486
 ) (c:/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count465
+\lst@mode=\count487
 \lst@gtempboxa=\box76
 \lst@token=\toks42
-\lst@length=\count466
+\lst@length=\count488
 \lst@currlwidth=\dimen298
-\lst@column=\count467
-\lst@pos=\count468
+\lst@column=\count489
+\lst@pos=\count490
 \lst@lostspace=\dimen299
 \lst@width=\dimen300
-\lst@newlines=\count469
-\lst@lineno=\count470
+\lst@newlines=\count491
+\lst@lineno=\count492
 \lst@maxwidth=\dimen301
  (c:/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count471
-\lst@skipnumbers=\count472
+\c@lstnumber=\count493
+\lst@skipnumbers=\count494
 \lst@framebox=\box77
 ) (c:/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
@@ -994,20 +1021,20 @@ File: listings.cfg 2023/02/27 1.9 listings configuration
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
  (c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count473
+\c@tracingmulticols=\count495
 \mult@box=\box78
 \multicol@leftmargin=\dimen302
-\c@unbalance=\count474
-\c@collectmore=\count475
-\doublecol@number=\count476
-\multicoltolerance=\count477
-\multicolpretolerance=\count478
+\c@unbalance=\count496
+\c@collectmore=\count497
+\doublecol@number=\count498
+\multicoltolerance=\count499
+\multicolpretolerance=\count500
 \full@width=\dimen303
 \page@free=\dimen304
 \premulticols=\dimen305
 \postmulticols=\dimen306
-\multicolsep=\skip115
-\multicolbaselineskip=\skip116
+\multicolsep=\skip118
+\multicolbaselineskip=\skip119
 \partial@page=\box79
 \last@line=\box80
 \maxbalancingoverflow=\dimen307
@@ -1051,67 +1078,68 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box118
 \@tempa=\box119
 \@tempa=\box120
-\c@minrows=\count479
-\c@columnbadness=\count480
-\c@finalcolumnbadness=\count481
+\c@minrows=\count501
+\c@columnbadness=\count502
+\c@finalcolumnbadness=\count503
 \last@try=\dimen308
 \multicolovershoot=\dimen309
 \multicolundershoot=\dimen310
 \mult@nat@firstbox=\box121
 \colbreak@box=\box122
-\mc@col@check@num=\count482
+\mc@col@check@num=\count504
 )
 \@float@every@table=\toks43
 \@nomenclaturefile=\write5
 \openout5 = `Thesis.nlo'.
 
-Package nomencl Info: Writing nomenclature file Thesis.nlo on input line 59.
+Package nomencl Info: Writing nomenclature file Thesis.nlo on input line 60.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 78.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 79.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./Thesis.aux
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- (./FrontMatter/Dedication.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ <Reading QR code for "https://github.com/jorgesolerrr/Student-behavior-prediction-and-recommendation-system" at level 6-M from aux file.>
+(./FrontMatter/Dedication.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
-LaTeX Font Info:    ... okay on input line 78.
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
-Package tocbasic Info: usage of `tocbibind' detected on input line 78.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+Package tocbasic Info: usage of `tocbibind' detected on input line 79.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count483
+\scratchcounter=\count505
 \scratchdimen=\dimen311
 \scratchbox=\box123
-\nofMPsegments=\count484
-\nofMParguments=\count485
+\nofMPsegments=\count506
+\nofMParguments=\count507
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count486
+\MPscratchCnt=\count508
 \MPscratchDim=\dimen312
-\MPnumerator=\count487
-\makeMPintoPDFobject=\count488
+\MPnumerator=\count509
+\makeMPintoPDFobject=\count510
 \everyMPtoPDFconversion=\toks45
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1132,9 +1160,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
  (./Thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 78.
-Package biblatex Info: Reference segment=0 on input line 78.
-Package hyperref Info: Link coloring ON on input line 78.
+Package biblatex Info: Reference section=0 on input line 79.
+Package biblatex Info: Reference segment=0 on input line 79.
+Package hyperref Info: Link coloring ON on input line 79.
  (./Thesis.out) (./Thesis.out)
 \@outlinefile=\write6
 \openout6 = `Thesis.out'.
@@ -1143,53 +1171,65 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count489
+\c@lstlisting=\count511
 <Graphics/uhlogo.pdf, id=115, 375.98297pt x 481.67456pt>
 File: Graphics/uhlogo.pdf Graphic file (type pdf)
 <use Graphics/uhlogo.pdf>
-Package pdftex.def Info: Graphics/uhlogo.pdf  used on input line 81.
+Package pdftex.def Info: Graphics/uhlogo.pdf  used on input line 82.
 (pdftex.def)             Requested size: 49.79231pt x 63.7885pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 81.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 82.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 81.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 82.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 81.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 82.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 81.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 82.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 81.
+(Font)              <17.28> on input line 82.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 81.
+(Font)              <12> on input line 82.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 81.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 81.
+(Font)              <10> on input line 82.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 82.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.4> on input line 81.
+(Font)              <7.4> on input line 82.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 81.
+(Font)              <6> on input line 82.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
- [1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+ 
+
+<QR code requested for "https://github.com/jorgesolerrr/Student-behavior-prediction-and-recommendation-system" in version 0-M.>
+<Copying the QR code for "https://github.com/jorgesolerrr/Student-behavior-prediction-and-recommendation-system" in version 6-M as previously calculated.>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 82.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 82.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+[1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./Graphics/uhlogo.pdf>]
 \openout2 = `FrontMatter/Dedication.aux'.
@@ -1208,16 +1248,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 ]) [4]
 \openout2 = `FrontMatter/Abstract.aux'.
 
- (./FrontMatter/Abstract.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 6.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
- [5
+ (./FrontMatter/Abstract.tex [5
 
 
 
@@ -1309,8 +1340,8 @@ Overfull \hbox (7.5299pt too wide) in paragraph at lines 185--186
 LaTeX Info: Redefining \. on input line 203.
 LaTeX Info: Redefining \% on input line 203.
 [15])
-LaTeX Info: Redefining \. on input line 92.
-LaTeX Info: Redefining \% on input line 92.
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
  [16]
 \openout2 = `MainMatter/Proposal.aux'.
 
@@ -1389,8 +1420,8 @@ LaTeX Info: Redefining \% on input line 243.
 LaTeX Info: Redefining \. on input line 260.
 LaTeX Info: Redefining \% on input line 260.
  [30])
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
  [31]
 \openout2 = `MainMatter/Implementation.aux'.
 
@@ -1542,8 +1573,8 @@ File: Graphics/dataset_2_fs_100.png Graphic file (type png)
 Package pdftex.def Info: Graphics/dataset_2_fs_100.png  used on input line 311.
 (pdftex.def)             Requested size: 216.81pt x 94.04996pt.
 )
-LaTeX Info: Redefining \. on input line 94.
-LaTeX Info: Redefining \% on input line 94.
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
  [41 <./Graphics/dataset_2_fs_25.png> <./Graphics/dataset_2_fs_50.png> <./Graphics/dataset_2_fs_75.png> <./Graphics/dataset_2_fs_100.png>]
 \openout2 = `BackMatter/Conclusions.aux'.
 
@@ -1576,10 +1607,11 @@ Overfull \hbox (33.86502pt too wide) in paragraph at lines 1--1
 
 
 ] [45] [46]) [47] (./Thesis.aux
-LaTeX Info: Redefining \sptext on input line 24.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- (./FrontMatter/Dedication.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
+LaTeX Info: Redefining \sptext on input line 25.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ <Reading QR code for "https://github.com/jorgesolerrr/Student-behavior-prediction-and-recommendation-system" at level 6-M from aux file.>
+(./FrontMatter/Dedication.aux) (./FrontMatter/SupervisorOpinion.aux) (./FrontMatter/Abstract.aux) (./FrontMatter/Contents.aux) (./MainMatter/Introduction.aux) (./MainMatter/Background.aux) (./MainMatter/Proposal.aux) (./MainMatter/Implementation.aux) (./BackMatter/Conclusions.aux) (./BackMatter/Recomendations.aux) (./BackMatter/Bibliography.aux))
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: A4D58467C93A4A9753D298B1A2721D5C;5159.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
@@ -1587,15 +1619,15 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37012 strings out of 476025
- 700138 string characters out of 5794015
- 1868382 words of memory out of 5000000
- 56589 multiletter control sequences out of 15000+600000
+ 38479 strings out of 476025
+ 720731 string characters out of 5794015
+ 1965382 words of memory out of 5000000
+ 58052 multiletter control sequences out of 15000+600000
  611364 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,13n,120p,1207b,2376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,13n,120p,2030b,2376s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmro10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb>
-Output written on Thesis.pdf (56 pages, 1445582 bytes).
+Output written on Thesis.pdf (56 pages, 1448786 bytes).
 PDF statistics:
  947 PDF objects out of 1000 (max. 8388607)
  790 compressed objects within 8 object streams
